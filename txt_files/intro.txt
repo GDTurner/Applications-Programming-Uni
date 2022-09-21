@@ -1,0 +1,21 @@
+
+ _______ _     _ _______                                                     
+    |    |_____| |______                                                     
+    |    |     | |______                                                     
+                                                                             
+                ______  _____  ______ ______  _______ _______  ______ _______
+                |_____]   |   |_____/ |     \ |       |_____| |  ____ |______
+                |_____] __|__ |    \_ |_____/ |_____  |     | |_____| |______
+                                                                             
+
+
+
+The Birdcage is set in a dystopian cyberpunk future that sees the players take on the role of an anthropomorphised, skateboarding bird of prey.
+You fight goons, take names, ride around on a HoloDeck (think 'Back to the Future' style skateboards) and feel hilarious that you named your character "Tony Hawk".
+
+---------------------
+
+During the game, words that have *asterisks* around them are recognised commands you can input and will allow you to interact with the world.
+
+There are some global commands that you can also access at all times outside of combat. Type *help* to see a list of these commands.
+ 
